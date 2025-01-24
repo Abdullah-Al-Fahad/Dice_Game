@@ -70,5 +70,5 @@ python main.py <dice1> <dice2> <dice3> ...
   
 ## Acknowledgments
 
-- This project was developed as part of **Task #3** of the internship program at **Intransition**.
+- This project was developed as part of **Task #3** of the internship program at **Itransition**.
 - Special thanks to Intransition for providing the opportunity to work on this challenging and educational task, which helped deepen my understanding of fair random number generation, HMAC, and object-oriented programming.
